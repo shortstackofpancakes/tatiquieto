@@ -16,24 +16,14 @@ Get-PackageProvider -name chocolatey
 
 $chocoPackages = (
 
-	# dev packages
-
 	"firefox",
-
-  "opera",
-
+  	"opera",
 	"googlechrome",
-
-  "silverlight",
-
+  	"silverlight",
 	"greenshot",
-
 	"gimp",
-
 	"7zip.install",
-
 	"vlc",
-
 	"notepadplusplus.install"
 
 );
